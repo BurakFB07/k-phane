@@ -1,0 +1,12 @@
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe.config
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.exe
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\bin\Debug\WindowsFormsApplication13.pdb
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form1.resources
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form2.resources
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Properties.Resources.resources
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.exe
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.pdb
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form3.resources
+C:\Users\Öğrenci\Desktop\Burak Rugala\WindowsFormsApplication13\WindowsFormsApplication13\obj\Debug\WindowsFormsApplication13.Form4.resources
